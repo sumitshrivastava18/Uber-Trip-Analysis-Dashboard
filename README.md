@@ -67,4 +67,4 @@ This dashboard tells a story, and here's a quick guide to its key chapters:
 
 Here’s a sneak peek at what the dashboard looks like\!
 
-\<img src="Uber_dashboard.png" alt="Overview Analysis" width="800"/\>
+![Dashboard Overview](https://github.com/sumitshrivastava18/Uber-Trip-Analysis-Dashboard/blob/main/Uber_dashboard.png)
