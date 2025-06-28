@@ -63,3 +63,4 @@ This dashboard tells a story, and here's a quick guide to its key chapters:
 
 Here’s a sneak peek at what the dashboard looks like\!
 
+https://github.com/sumitshrivastava18/Uber-Trip-Analysis-Dashboard/blob/main/Uber_dashboard.png
